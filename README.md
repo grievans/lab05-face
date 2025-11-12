@@ -1,3 +1,6 @@
+# Griffin Evans
+https://www.shadertoy.com/view/3X2BDK
+
 # lab06-proceduralFace
 
 Let's practice parameterization! We'll be starting with an oh-so-beautiful gingerbread man face that looks like this:
